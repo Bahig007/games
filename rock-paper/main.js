@@ -2,7 +2,7 @@ const computerChoiceDisplay = document.getElementById('computer-choice');
 const myChoiceDisplay = document.getElementById('my-choice');
 const resultDisplay = document.getElementById('result');
 
-const possibleChoices = document.querySelectorAll('button');
+const possibleChoices = document.querySelectorAll('img');
 
 let userChoice;
 let computerChoice;
